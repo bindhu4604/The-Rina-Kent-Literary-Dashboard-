@@ -63,7 +63,7 @@ The dashboard is designed with a clean, consistent color theme and a focus on
 
 <h2>📁 Repository Structure</h2>
 <pre>
-|-- data/
+|-- rina_kents_book_dataset/
 |-- dashboard/
 |-- README.md
 </pre>
